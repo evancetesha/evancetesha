@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Evance Tesha
 
-> Senior Platform Engineer | Team Lead <br>
+> Senior Platform Engineer
 > Building and operating cloud-native infrastructure, empowering teams with self-serve platforms, and championing DevOps best practices.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evancetesha/)
